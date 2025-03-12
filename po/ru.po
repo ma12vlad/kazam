@@ -336,19 +336,3 @@ msgstr "Видео с веб-камеры"
 #: ../data/ui/kazam.ui:217
 msgid "Key presses and mouse clicks"
 msgstr "Нажатия клавиш и щелчки мышью"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#~ msgid "Kazam_screencast"
-#~ msgstr "Kazam_screencast"
